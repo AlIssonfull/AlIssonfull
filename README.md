@@ -27,7 +27,7 @@ Gosto de mapear cada parte da aplicação — da lógica à interface do usuári
 
 ### 🛠️ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,postman,mysql,npm,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,postman,zod,mysql,npm,git,github,figma,vscode" />
 </p>
 
 ---
