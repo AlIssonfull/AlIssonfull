@@ -18,6 +18,15 @@ Gosto de mapear cada parte da aplicação — da lógica à interface do usuári
 
 ---
 
+### 🎯 Objetivo
+Consolidar uma base técnica sólida em desenvolvimento web, aprofundando fundamentos como arquitetura, organização e boas práticas, enquanto evoluo continuamente como desenvolvedor Full Stack.
+
+Busco expandir meu domínio no front-end e no back-end, explorando novas tecnologias e ferramentas que elevem a qualidade, a performance e a escalabilidade das minhas aplicações.
+
+Meu foco é construir aplicações completas, bem estruturadas e eficientes, sempre priorizando clareza, manutenção e evolução constante.
+
+---
+
 ### 🚀 Estudando e explorando:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,react,bootstrap,sass,tailwind,angular,django,python,php,laravel" />
