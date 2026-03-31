@@ -29,7 +29,7 @@ Meu foco é construir aplicações completas, bem estruturadas e eficientes, sem
 
 ### 🚀 Estudando e explorando:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,react,bootstrap,sass,tailwind,angular,django,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,react,sass,tailwind,angular,django,python,php,laravel" />
 </p>
 
 ---
